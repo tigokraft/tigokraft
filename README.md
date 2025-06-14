@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Tiago (a.k.a tigokraft)</h1>
 <h3 align="center">Full-Stack Developer • Creative Technologist • Sim Racing Builder</h3>
 
+<!-- The GitHub Profile Terminal -->
+<p align="center">
+  <a href="https://your-portfolio.com">
+    <img src="https://raw.githubusercontent.com/YourUsername/My-Terminal-Generator/main/terminal.gif" alt="Terminal" />
+  </a>
+</p>
+
 ### 👨‍💻 About Me
 
 - 🔭 Currently building: [FinSync](https://github.com/tigokraft/FinSync) – a powerful expense & budget manager using C#, WinForms, SQL Server
