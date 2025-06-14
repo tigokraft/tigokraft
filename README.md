@@ -10,3 +10,7 @@
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tigokraft&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tigokraft/tigokraft/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
