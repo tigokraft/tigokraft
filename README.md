@@ -15,6 +15,12 @@
 - Instagram: [__.tigo](https://instagram.com/__.tigo)
 
 
+### 🚀 Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,nestjs,cpp,cs,py,tailwind,linux,docker,sqlite,mongodb,mysql,prisma,vscode" />
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=91C2FF&center=true&vCenter=true&multiline=true&lines=Full-stack+developer+from+Portugal;Building+beautiful+UIs+with+Next.js+and+React;Always+shipping+and+always+learning..." alt="Typing SVG" />
 </p>
@@ -28,4 +34,16 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/tigokraft/tigokraft/output/github-contribution-grid-snake.svg" />
 </p>
+
+### ☕ Support Me
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/tigokraft">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="tigokraft" />
+  </a>
+</p>
+
+### 🎶 Now Playing
+
+[![Spotify](https://novatorem-tigokraft.vercel.app/api/spotify)](https://open.spotify.com/user/your_spotify_id)
 
