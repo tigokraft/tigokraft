@@ -1,12 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tiago (a.k.a tigokraft)</h1>
 <h3 align="center">Full-Stack Developer • Creative Technologist • Sim Racing Builder</h3>
 
-<!-- The GitHub Profile Terminal -->
-<p align="center">
-  <a href="https://your-portfolio.com">
-    <img src="https://raw.githubusercontent.com/YourUsername/My-Terminal-Generator/main/terminal.gif" alt="Terminal" />
-  </a>
-</p>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=00FF00&background=00000000¢er=false&width=450&height=150&lines=user@github%3A~%24+whoami;%5BYour+Name%5D%2C+%5BYour+Title%5D;user@github%3A~%24+cat+skills.txt;%3E+%5BSkill+1%5D;%3E+%5BSkill+2%5D;%3E+%5BSkill+3%5D;user@github%3A~%24+█)
 
 ### 👨‍💻 About Me
 
