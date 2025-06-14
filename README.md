@@ -43,7 +43,3 @@
   </a>
 </p>
 
-### 🎶 Now Playing
-
-[![Spotify](https://novatorem-tigokraft.vercel.app/api/spotify)](https://open.spotify.com/user/lvue65p8my410o1buq1nfpkjw)
-
