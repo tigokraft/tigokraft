@@ -9,9 +9,9 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@master
+      - uses: Platane/snk@v3.3.0
         with:
-          github_user_name: tigokraft
+          github_user_name: tigokraft   # <--- This must be YOUR GitHub username
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg
