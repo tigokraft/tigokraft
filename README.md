@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tiago (a.k.a tigokraft)</h1>
 <h3 align="center">Full-Stack Developer • Creative Technologist • Sim Racing Builder</h3>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=00FF00&background=00000000¢er=false&width=450&height=150&lines=user@github%3A~%24+whoami;%5BTiago+Oliveira%5D%2C;user@github%3A~%24+cat+skills.txt;%3E+%5BSkill+1%5D;%3E+%5BSkill+2%5D;%3E+%5BSkill+3%5D;user@github%3A~%24+█)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=00FF00&background=00000000&center=false&width=600&height=150&lines=user@github%3A~%24+whoami;%5BTiago+Oliveira%5D%2C;user@github%3A~%24+cat+skills.txt;%3E+Full-stack+Dev+%28C%23%2C+TS%2C+Next.js%29;%3E+Database+Wizard+%28SQL+Server%2C+Mongo%2C+Prisma%29;%3E+Embedded+Systems+Hacker;%3E+UI%2FUX+Ninja+%28TailwindCSS%2C+React%29;user@github%3A~%24+█)
 
 ### 👨‍💻 About Me
 
