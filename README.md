@@ -21,7 +21,8 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=91C2FF&center=true&vCenter=true&multiline=true&lines=Full-stack+developer+from+Portugal;Building+beautiful+UIs+with+Next.js+and+React;Always+shipping+and+always+learning..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=91C2FF&center=true&vCenter=true&width=600&height=120&lines=Full-stack+developer+from+Portugal;Building+beautiful+UIs+with+Next.js+and+React;Always+shipping+and+always+learning..." />
+
 </p>
 
 <br />
