@@ -1,16 +1,13 @@
 <h1 align="center">Hi 👋, I'm Tiago (a.k.a tigokraft)</h1>
-<h3 align="center">Full-Stack Developer • Creative Technologist • Sim Racing Builder</h3>
+<h3 align="center">Full-Stack Developer • Creative Technologist</h3>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=00FF00&background=00000000&center=false&width=600&height=150&lines=user@github%3A~%24+whoami;%5BTiago+Oliveira%5D%2C;user@github%3A~%24+cat+skills.txt;%3E+Full-stack+Dev+%28C%23%2C+TS%2C+Next.js%29;%3E+Database+Wizard+%28SQL+Server%2C+Mongo%2C+Prisma%29;%3E+Embedded+Systems+Hacker;%3E+UI%2FUX+Ninja+%28TailwindCSS%2C+React%29;user@github%3A~%24+█)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=00FF00&background=00000000&center=false&width=600&height=150&lines=user@github%3A~%24+whoami;Tiago+Oliveira;user@github%3A~%24+cat+skills.txt;%3E+Full-stack+Dev+%28C%23%2C+TS%2C+Next.js%29;%3E+Database+Wizard+%28SQL+Server%2C+Mongo%2C+Prisma%29;%3E+Embedded+Systems+Hacker;%3E+UI%2FUX+Ninja+%28TailwindCSS%2C+React%29;user@github%3A~%24+█)
 
 ### 👨‍💻 About Me
 
 - 🔭 Currently building: [FinSync](https://github.com/tigokraft/FinSync) – a powerful expense & budget manager using C#, WinForms, SQL Server
 - 🌱 Learning: **Next.js, NestJS, TypeScript, Docker, C++**
-- 🧠 Interests: Full-stack development, embedded systems, sim racing hardware
-- 💬 Ask me about: Windows Forms, API integrations, React, Prisma
-- ⚡ Fun fact: I’m building a custom modular sim racing handbrake
-
+- 🧠 Interests: Full-stack development, embedded systems, esp32, raspberypi, fun stuff with micro controllers
 ### 📫 Contact Me
 - Email: `maybetigo@gmail.com`
 - Medium: [@tigokraft](https://medium.com/@tigokraft)
