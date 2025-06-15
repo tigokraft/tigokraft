@@ -27,6 +27,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=91C2FF&center=true&vCenter=true&multiline=true&lines=Full-stack+developer+from+Portugal;Building+beautiful+UIs+with+Next.js+and+React;Always+shipping+and+always+learning..." alt="Typing SVG" />
 </p>
 
+<br />
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tigokraft&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br />
