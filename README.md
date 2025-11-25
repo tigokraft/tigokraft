@@ -8,8 +8,6 @@
 
 </div>
 
-[![My Credly Badge](https://images.credly.com/images/.../your-badge.png)](https://www.credly.com/badges/c655c961-e76a-4ba9-8a72-45f6f153fd31/public_url)
-
 ---
 
 ## 🚀 What I'm Working On
