@@ -13,9 +13,8 @@
 ## 🚀 What I'm Working On
 
 - 🦀 **[Cookest](https://github.com/tigokraft/Cookest)** — Learning Rust by building something awesome
-- 💰 **[FinSync](https://github.com/tigokraft/FinSync)** — Expense & budget manager (C#, WinForms, SQL Server)
-- 🌱 Currently exploring: **Rust, Next.js, NestJS, TypeScript, Docker**
-- 🔧 Playing with: **ESP32, Raspberry Pi, and various microcontrollers**
+- 📕 Currently learing: **Rust**
+- 🔧 Micro controller entisiast
 
 ## 💼 Tech Stack
 
