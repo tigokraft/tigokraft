@@ -1,47 +1,85 @@
-<h1 align="center">Hi 👋, I'm Tiago (a.k.a tigokraft)</h1>
-<h3 align="center">Full-Stack Developer • Creative Technologist</h3>
+<div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=00FF00&background=00000000&center=false&width=600&height=150&lines=user@github%3A~%24+whoami;Tiago+Oliveira;user@github%3A~%24+cat+skills.txt;%3E+Full-stack+Dev+%28C%23%2C+TS%2C+Next.js%29;%3E+Database+Wizard+%28SQL+Server%2C+Mongo%2C+Prisma%29;%3E+Embedded+Systems+Hacker;%3E+UI%2FUX+Ninja+%28TailwindCSS%2C+React%29;user@github%3A~%24+█)
+# 👋 Hi, I'm Tiago Oliveira
 
-### 👨‍💻 About Me
+### Full-Stack Developer • Creative Technologist • Systems Enthusiast
 
-- 🔭 Currently building: [FinSync](https://github.com/tigokraft/FinSync) – a powerful expense & budget manager using C#, WinForms, SQL Server
-- 🌱 Learning: **Next.js, NestJS, TypeScript, Docker, C++**
-- 🧠 Interests: Full-stack development, embedded systems, esp32, raspberypi, fun stuff with micro controllers
-### 📫 Contact Me
-- Email: `maybetigo@gmail.com`
-- Medium: [@tigokraft](https://medium.com/@tigokraft)
-- Instagram: [__.tigo](https://instagram.com/__.tigo)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Building+full-stack+applications;Exploring+systems+programming+with+Rust;Crafting+beautiful+user+interfaces;Experimenting+with+embedded+systems)](https://git.io/typing-svg)
 
+</div>
 
-### 🚀 Languages & Tools
+---
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,nestjs,cpp,cs,py,tailwind,linux,docker,sqlite,mongodb,mysql,prisma,vscode" />
-</p>
+## 🚀 What I'm Working On
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=91C2FF&center=true&vCenter=true&width=600&height=120&lines=Full-stack+developer+from+Portugal;Building+beautiful+UIs+with+Next.js+and+React;Always+shipping+and+always+learning..." />
+- 🦀 **[Cookest](https://github.com/tigokraft/Cookest)** — Learning Rust by building something awesome
+- 💰 **[FinSync](https://github.com/tigokraft/FinSync)** — Expense & budget manager (C#, WinForms, SQL Server)
+- 🌱 Currently exploring: **Rust, Next.js, NestJS, TypeScript, Docker**
+- 🔧 Playing with: **ESP32, Raspberry Pi, and various microcontrollers**
 
-</p>
+## 💼 Tech Stack
 
-<br />
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tigokraft&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tigokraft&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+### Languages
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tigokraft/tigokraft/output/github-contribution-grid-snake.svg" />
-</p>
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### ☕ Support Me
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
-<p align="center">
-  <a href="https://www.buymeacoffee.com/tigokraft">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="tigokraft" />
-  </a>
-</p>
+### Tools & Platforms
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tigokraft&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tigokraft&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tigokraft&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak Stats" />
+</div>
+
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- Check out my writings on [Medium](https://medium.com/@tigokraft)
+<!-- BLOG-POST-LIST:END -->
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maybetigo@gmail.com)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@tigokraft)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/__.tigo)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/tigokraft)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=tigokraft&color=blue&style=flat-square&label=Profile+Views" alt="Profile views" />
+  
+  **💡 "Always shipping, always learning"**
+</div>
