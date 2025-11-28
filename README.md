@@ -58,12 +58,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tigokraft&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak Stats" />
 </div>
 
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- Check out my writings on [Medium](https://medium.com/@tigokraft)
-<!-- BLOG-POST-LIST:END -->
-
 ## 🤝 Connect With Me
 
 <div align="center">
@@ -80,7 +74,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=tigokraft&color=blue&style=flat-square&label=Profile+Views" alt="Profile views" />
   
-  **💡 "Always shipping, always learning"**
+  “The man who fears death will never do anything worthy of a man who is alive.”
 </div>
 
 <picture>
