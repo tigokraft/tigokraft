@@ -81,5 +81,5 @@
   <img src="https://komarev.com/ghpvc/?username=tigokraft&color=blue&style=flat-square&label=Profile+Views" alt="Profile views" />
   
   “The man who fears death will never do anything worthy of a man who is alive.”
-  - Seneca
+  -Seneca
 </div>
