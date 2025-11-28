@@ -58,6 +58,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tigokraft&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak Stats" />
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m-serafim/m-serafim/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m-serafim/m-serafim/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/m-serafim/m-serafim/output/github-contribution-grid-snake.svg">
+</picture>
+
 ## 🤝 Connect With Me
 
 <div align="center">
@@ -75,10 +81,5 @@
   <img src="https://komarev.com/ghpvc/?username=tigokraft&color=blue&style=flat-square&label=Profile+Views" alt="Profile views" />
   
   “The man who fears death will never do anything worthy of a man who is alive.”
+  - Seneca
 </div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m-serafim/m-serafim/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m-serafim/m-serafim/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/m-serafim/m-serafim/output/github-contribution-grid-snake.svg">
-</picture>
