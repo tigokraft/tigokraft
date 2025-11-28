@@ -17,8 +17,8 @@ jobs:
         with:
           github_user_name: tigokraft
           outputs: |
-            dist/github-contribution-grid-snake.svg?palette=github-light&color_snake=#0d6efd&color_dots=#bfdbfe,#93c5fd,#60a5fa,#3b82f6,#1e40af
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#58A6FF&color_dots=#1e3a8a,#1e40af,#3b82f6,#60a5fa,#93c5fd
+            dist/github-contribution-grid-snake.svg?palette=github-light&color_snake=#0d6efd&color_dots=#3B82F6,#60A5FA,#93C5FD,#BFDBFE,#E0F2FE
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#58A6FF&color_dots=#3B82F6,#60A5FA,#93C5FD,#BFDBFE,#E0F2FE
       - name: Push animation to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
