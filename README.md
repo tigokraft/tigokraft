@@ -14,7 +14,7 @@
 
 - 🦀 **[Cookest](https://github.com/tigokraft/Cookest)** — Learning Rust by building something awesome
 - 📕 Currently learing: **Rust**
-- 🔧 Micro controller entisiast
+- 🔧 Micro controller enthusiast
 
 ## 💼 Tech Stack
 
@@ -59,9 +59,9 @@
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m-serafim/m-serafim/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m-serafim/m-serafim/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/m-serafim/m-serafim/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tigokraft/tigokraft/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tigokraft/tigokraft/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/tigokraft/tigokraft/output/github-contribution-grid-snake.svg">
 </picture>
 
 ## 🤝 Connect With Me
