@@ -1,5 +1,0 @@
-- name: generate-snake-game-from-github-contribution-grid
-  uses: Platane/snk@v3.3.0
-  with:
-    github_user_name: tigokraft
-    github_token: ${{ secrets.GITHUB_TOKEN }}
