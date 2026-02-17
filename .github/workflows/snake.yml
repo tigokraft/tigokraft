@@ -22,8 +22,11 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg?palette=github-light&color_snake=#0969da&color_dots=#ebf5ff,#bae0ff,#69b1ff,#1677ff,#003eb3
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#38bdf8&color_dots=#161b22,#003366,#004a99,#0066cc,#1a8cff
+            # Light Mode: White background with blue activity
+            dist/github-contribution-grid-snake.svg?palette=github-light&color_snake=#0969da&color_dots=#ffffff,#bae0ff,#69b1ff,#1677ff,#003eb3
+            
+            # Dark Mode: Deep gray/black background with high-contrast blue activity
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#38bdf8&color_dots=#0d1117,#161b22,#004a99,#0066cc,#1a8cff
         env:
           # A GitHub token is required to fetch the contribution graph from the API
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
