@@ -2,7 +2,9 @@ name: 🐍 Generate Snake Animation
 
 on:
   schedule:
+    # Runs every 24 hours
     - cron: "0 0 * * *"
+  # Allows you to manually run the workflow at any time
   workflow_dispatch:
 
 permissions:
@@ -11,18 +13,23 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 5
+    
     steps:
+      # Generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <outputs>
       - name: Generate Snake Animation
         uses: Platane/snk@v3.3.0
         with:
-          github_user_name: tigokraft
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
-            # Light Mode: Soft sky blues with a deep blue snake
             dist/github-contribution-grid-snake.svg?palette=github-light&color_snake=#0969da&color_dots=#ebf5ff,#bae0ff,#69b1ff,#1677ff,#003eb3
-            
-            # Dark Mode: Deep navy to bright azure with a high-contrast neon blue snake
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#38bdf8&color_dots=#161b22,#003366,#004a99,#0066cc,#1a8cff
-            
+        env:
+          # A GitHub token is required to fetch the contribution graph from the API
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # Push the content of <build_dir> to a branch
+      # The content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file>
       - name: Push animation to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
