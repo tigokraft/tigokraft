@@ -12,7 +12,7 @@
 
 ## 🚀 What I'm Working On
 
-- 🦀 **[Cookest](https://github.com/tigokraft/Cookest)** — Learning Rust by building something awesome
+- 🦀 **[Cookest](https://github.com/Cookest)** — Learning Rust by building something awesome
 - 📕 Currently learing: **Rust**
 - 🔧 Micro controller enthusiast
 
