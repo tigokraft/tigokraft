@@ -1,12 +1,8 @@
-<div align="center">
-
 # 👋 Hi, I'm Tiago Oliveira
 
 ### Full stack developer from Portugal
 
 get to know me (more)[https://exxo.world]
-</div>
-
 ---
 
 <div align="center">
