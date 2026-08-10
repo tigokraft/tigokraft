@@ -1,9 +1,5 @@
 # 👋 Hi, I'm Tiago Oliveira
-
-### Full stack developer from Portugal
-
-get to know me [more](https://exxo.world)
----
+### I enjoy opensource
 
 <div align="center">
   “The man who fears death will never do anything worthy of a man who is alive.”
