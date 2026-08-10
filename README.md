@@ -2,7 +2,7 @@
 
 ### Full stack developer from Portugal
 
-get to know me (more)[https://exxo.world]
+get to know me [more](https://exxo.world)
 ---
 
 <div align="center">
